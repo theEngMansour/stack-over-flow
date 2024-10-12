@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43a3539e-b316-4863-84b1-c70ccaba1aa2" name="Changes" comment="[Add]">
+      <change afterPath="$PROJECT_DIR$/app/api/webhooks/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/cards/QuestionCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/forms/Question.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/Metric.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/NoResult.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/RenderTag.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/RightSidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/home/HomeFilters.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/search/Filter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/shared/search/LocalSearchbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/badge.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/filters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/question.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/tag.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/question.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/shared.type.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/user.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mongoose.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/validations.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/font.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(home)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(home)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/ask-question/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/ask-question/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/shared/navbar/MobileNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/navbar/MobileNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/shared/navbar/Theme.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/shared/navbar/Theme.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lZahWDwlvJjcutlLfz0QgwY14e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javascript/my-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;C:\\Users\\theengmansour\\Desktop\\javascript\\my-app\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\theengmansour\\Desktop\\javascript\\my-app\\node_modules\\prettier&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2640163&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\javascript\\my-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theengmansour\Desktop\javascript\my-app\components\shared" />
+      <recent name="C:\Users\theengmansour\Desktop\javascript\my-app\app\api\upload" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.19072.23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a3539e-b316-4863-84b1-c70ccaba1aa2" name="Changes" comment="" />
+      <created>1725390176354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725390176354</updated>
+      <workItem from="1725390177277" duration="3992000" />
+      <workItem from="1725395185793" duration="210000" />
+      <workItem from="1725395531333" duration="1228000" />
+      <workItem from="1725478103507" duration="2874000" />
+      <workItem from="1725982477686" duration="10805000" />
+      <workItem from="1726209016261" duration="57000" />
+      <workItem from="1726213006152" duration="620000" />
+      <workItem from="1726216468367" duration="157000" />
+      <workItem from="1726345408665" duration="918000" />
+      <workItem from="1726346932642" duration="2895000" />
+      <workItem from="1727074964196" duration="41000" />
+      <workItem from="1727075023585" duration="991000" />
+      <workItem from="1727076443477" duration="2000" />
+      <workItem from="1727093993121" duration="54000" />
+      <workItem from="1727094068633" duration="24000" />
+      <workItem from="1727105667426" duration="10870000" />
+      <workItem from="1727628781544" duration="4313000" />
+      <workItem from="1727862109271" duration="6281000" />
+      <workItem from="1728153369011" duration="3166000" />
+      <workItem from="1728279593509" duration="761000" />
+      <workItem from="1728280429922" duration="6772000" />
+      <workItem from="1728334913809" duration="8327000" />
+      <workItem from="1728480148630" duration="479000" />
+      <workItem from="1728586933996" duration="613000" />
+      <workItem from="1728672596725" duration="7215000" />
+      <workItem from="1728758598909" duration="2432000" />
+    </task>
+    <task id="LOCAL-00001" summary="[Add]">
+      <option name="closed" value="true" />
+      <created>1726003070307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726003070307</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.js" />
+        <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.cjs" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[Add]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add]" />
+  </component>
+</project>
